@@ -54,3 +54,11 @@ config.cfg
 # shader files
 *.tmp
 
+####
+*.project
+*.cproject
+*.un~
+mp/game/*
+*.orig
+*.settings
+mp/src/shell*
